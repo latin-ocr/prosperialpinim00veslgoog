@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prosperialpinim00veslgoog_0070.png"; bbox 0 0 885 1148; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 36 42 704 75">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 36 42 704 75">
+     <span class='ocr_line' id='line_1_1' title="bbox 36 42 704 75; baseline 0 -14"><span class='ocrx_word' id='word_1_1' title='bbox 36 42 416 75; x_wconf 50' lang='lat' dir='ltr'><em>BALAAMUM,.W7&amp;</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 449 45 704 62; x_wconf 70' lang='lat' dir='ltr'><em>BALESSAN.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 778 22 813 32">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 778 22 813 32">
+     <span class='ocr_line' id='line_1_2' title="bbox 778 22 813 32; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 778 22 781 23; x_wconf 53' lang='lat'><em>⁷</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 805 23 813 32; x_wconf 48' lang='grc' dir='ltr'>κ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 741 34 816 62">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 741 34 816 62">
+     <span class='ocr_line' id='line_1_3' title="bbox 741 34 816 62; baseline 0.027 -2"><span class='ocrx_word' id='word_1_5' title='bbox 741 34 816 62; x_wconf 50' lang='grc' dir='ltr'><em>,Τ-Ᾰῑ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 698 1120 792 1137">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 698 1120 792 1137">
+     <span class='ocr_line' id='line_1_4' title="bbox 698 1120 792 1137; baseline -0.021 0"><span class='ocrx_word' id='word_1_6' title='bbox 698 1120 792 1137; x_wconf 53' lang='lat' dir='ltr'><em>&#39;SA-xxv.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

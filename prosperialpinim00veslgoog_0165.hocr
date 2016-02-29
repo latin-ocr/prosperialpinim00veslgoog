@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prosperialpinim00veslgoog_0165.png"; bbox 0 0 885 1148; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 95 35 180 68">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 95 35 180 68">
+     <span class='ocr_line' id='line_1_1' title="bbox 95 35 180 68; baseline 0 -15"><span class='ocrx_word' id='word_1_1' title='bbox 95 35 115 56; x_wconf 50' lang='lat'><em>7*</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 123 36 152 53; x_wconf 73' lang='lat'><em>5!-</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 178 62 180 68; x_wconf 24' lang='lat' dir='ltr'>X</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 264 39 656 57">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 264 39 656 57">
+     <span class='ocr_line' id='line_1_2' title="bbox 264 39 656 57; baseline 0.003 -2"><span class='ocrx_word' id='word_1_4' title='bbox 264 39 478 56; x_wconf 65' lang='lat' dir='ltr'><em>RELLUm</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 509 39 656 57; x_wconf 76' lang='lat' dir='ltr'><em>KALLI</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 718 39 766 56">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 718 39 766 56">
+     <span class='ocr_line' id='line_1_3' title="bbox 718 39 766 56; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 718 39 760 56; x_wconf 81' lang='grc' dir='ltr'><em>ΙΙΙ</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 762 51 766 56; x_wconf 94' lang='grc'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 801 1106 867 1123">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 801 1106 867 1123">
+     <span class='ocr_line' id='line_1_4' title="bbox 801 1106 867 1123; baseline -0.045 0"><span class='ocrx_word' id='word_1_8' title='bbox 801 1111 831 1123; x_wconf 70' lang='lat' dir='ltr'><em>TA.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 837 1106 867 1120; x_wconf 69' lang='lat' dir='ltr'><em>u!</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
