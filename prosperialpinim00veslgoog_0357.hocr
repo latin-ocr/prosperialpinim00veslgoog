@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prosperialpinim00veslgoog/prosperialpinim00veslgoog_0357.png"; bbox 0 0 885 1148; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 58 21 677 55">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 58 21 677 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 58 21 677 55; baseline 0.002 -11"><span class='ocrx_word' id='word_1_1' title='bbox 58 34 123 55; x_wconf 62' lang='lat' dir='ltr'><em>pus</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 277 28 299 45; x_wconf 76' lang='lat' dir='ltr'><strong><em>B</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 316 28 494 45; x_wconf 69' lang='lat' dir='ltr'><em>AMMIA</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 533 21 677 46; x_wconf 51' lang='lat' dir='ltr'><em>uiuam.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 773 1095 835 1116">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 773 1095 835 1116">
+     <span class='ocr_line' id='line_1_2' title="bbox 773 1095 835 1116; baseline -0.032 0"><span class='ocrx_word' id='word_1_5' title='bbox 773 1095 835 1116; x_wconf 65' lang='lat' dir='ltr'><em>n.z1‘¹</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
